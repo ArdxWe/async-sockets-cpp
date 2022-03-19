@@ -37,3 +37,9 @@ benchmarks/easysocket/bin
 .idea
 cmake-build-debug
 **/.DS_Store
+
+# generated elf
+examples/tcp-client
+examples/tcp-server
+examples/udp-client
+examples/udp-server
